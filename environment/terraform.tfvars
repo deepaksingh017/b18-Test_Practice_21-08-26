@@ -20,6 +20,10 @@ rg-dev ={
         name     = "deepak-rg4" 
         location = "East US"
     }
+     rg6 = {
+        name     = "deepak-rg6" 
+        location = "East US"
+    }
     
     
 }
