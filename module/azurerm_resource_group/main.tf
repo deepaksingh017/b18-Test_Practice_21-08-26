@@ -4,3 +4,4 @@ resource "azurerm_resource_group" "adnan" {
     location = each.value.location
   
 }
+
