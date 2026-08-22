@@ -20,8 +20,8 @@ rg-dev ={
         name     = "deepak-rg4" 
         location = "East US"
     }
-     rg6 = {
-        name     = "deepak-rg6" 
+     rg7 = {
+        name     = "deepak-rg7" 
         location = "East US"
     }
     
@@ -30,7 +30,7 @@ rg-dev ={
 
 str ={
     str1 = {
-        name                     = "deepakstor237123"
+        name                     = "prodstorage7123"
         resource_group_name      = "deepak-rg1"
         location                 = "East US"
         account_tier             = "Standard"
@@ -38,7 +38,7 @@ str ={
     }
 
     str2 = {
-        name                     = "gurpreest2345674567"
+        name                     = "QAStorage2354"
         resource_group_name      = "Gurpreet-rg2"
         location                 = "East US"
         account_tier             = "Standard"
