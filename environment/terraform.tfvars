@@ -38,7 +38,7 @@ str ={
     }
 
     str2 = {
-        name                     = "QAStorage2354"
+        name                     = "qastorage2354"
         resource_group_name      = "Gurpreet-rg2"
         location                 = "East US"
         account_tier             = "Standard"
